@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  font-family: 'Bitter', serif;
+  text-align: center;
+}
+.nav-item{
+  font-family: 'Bitter', serif;
+
+}
+
+.card-text{
+  font-family: 'Bitter', serif;
+}
+
+body{
+  background-color: mistyrose;
+}
